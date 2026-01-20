@@ -23,3 +23,5 @@ def most_common_letter(s: str) -> Optional[str]:
         If there are no letters in the string, return None.
     """
     pass
+
+
